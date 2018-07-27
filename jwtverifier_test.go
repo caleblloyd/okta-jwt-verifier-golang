@@ -19,9 +19,9 @@ package jwtverifier
 import (
 	"bytes"
 	"encoding/json"
-	"github.com/okta/okta-jwt-verifier-golang/adaptors/lestrratGoJwx"
-	"github.com/okta/okta-jwt-verifier-golang/discovery/oidc"
-	"github.com/okta/okta-jwt-verifier-golang/utils"
+	"github.com/caleblloyd/okta-jwt-verifier-golang/adaptors/lestrratGoJwx"
+	"github.com/caleblloyd/okta-jwt-verifier-golang/discovery/oidc"
+	"github.com/caleblloyd/okta-jwt-verifier-golang/utils"
 	"io/ioutil"
 	"net/http"
 	"net/url"
